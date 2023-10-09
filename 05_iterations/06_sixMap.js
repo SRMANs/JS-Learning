@@ -4,4 +4,5 @@ console.log(newArr);
 
 myNums.forEach((nums) => console.log(nums+10))
 
-const newNum = myNums.map
+const newNum = myNums.map((num) => num*10).map((num) => num+1).filter((num) => num>35)
+console.log(newNum);
