@@ -1,0 +1,1 @@
+//for, while, do while loop is done -> I know them so no need of notes.
